@@ -1,3 +1,3 @@
 # testrepo
 ##editing the file
-its a mark down file in this resipetory
+its a file for python
